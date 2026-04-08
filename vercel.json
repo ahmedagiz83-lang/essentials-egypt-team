@@ -1,0 +1,11 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://dvtkkhiimgwxuxisxlzw.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR2dGtraGlpbWd3eHV4aXN4bHp3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1OTY0OTAsImV4cCI6MjA5MTE3MjQ5MH0.DH8KDoOkAkcqpGDEtLuMMwiayjW5D5xqJdSKuwxGJzY",
+    "NEXT_PUBLIC_APP_URL": "https://essentials-egypt-team.vercel.app"
+  }
+}
